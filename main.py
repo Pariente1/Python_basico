@@ -1,5 +1,7 @@
 
 user_option = input('piedra, papel o tijera => ')
+user_option = user_option.lower()
+
 computer_option = 'tijera'
 print(f'La computadora escogió {computer_option} y tu escogiste {user_option}')
 

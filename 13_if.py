@@ -1,4 +1,4 @@
-"""
+
 if True:
   print('Deberia ejecutarse')
 
@@ -24,7 +24,7 @@ if stock >= 100 and stock <= 1000:
 else: 
   print('El stock es incorrecto')
   
-"""
+
 
 #Par o Impar
 
